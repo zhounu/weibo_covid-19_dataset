@@ -1,4 +1,4 @@
----
+------
 
 武汉疫情爬虫数据（爬取了来自所有地理位置的微博）
 
@@ -8,9 +8,9 @@ Dataset: Weibo posts during the initial outbreak of Covid-19 in China
 
 但在链接中，你同样可以下载3月和4月初的微博数据
 
----
+------
 
----
+------
 
 北京疫情爬虫数据（爬取微博时，微博搜索地理位置设置为了：北京、河北；论文我们仅使用了来自北京的数据）
 
@@ -22,7 +22,7 @@ Dataset: Weibo posts during the resurgence of Covid-19 in Beijing, China
 
 提取码：36o5
 
----
+------
 
 To utilize this dataset in your research, please cite
 
