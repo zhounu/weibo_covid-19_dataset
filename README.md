@@ -6,7 +6,9 @@ Dataset: Weibo posts during the initial outbreak of Covid-19 in China
 
 但在链接中，你同样可以下载3月和4月初的微博数据
 
-请注意：我上传的这份数据应该暂未去除重复的表头
+请注意：我上传的这份数据或未去除重复的表头。由于爬取规则设置，数据中也会有少量重复数据，请记得去重。
+
+NOTE: Due to the crawling rule, there will be a tiny amount of duplicate data in the dataset. Please remember to remove duplicates. Also, please remenber to remove extra headers in the dataset.
 
 链接：https://pan.baidu.com/s/17Rnia_a0HY14OMl3ANx4eA 
 
@@ -19,6 +21,10 @@ Dataset: Weibo posts during the initial outbreak of Covid-19 in China
 Dataset: Weibo posts during the resurgence of Covid-19 in Beijing, China
 
 时间区间：Jun 4, 2020 - Jul 20, 2020
+
+请注意：我上传的这份数据或未去除重复的表头。由于爬取规则设置，数据中也会有少量重复数据，请记得去重。
+
+NOTE: Due to the crawling rule, there will be a tiny amount of duplicate data in the dataset. Please remember to remove duplicates. Also, there might be extra headers in the dataset.
 
 链接：https://pan.baidu.com/s/1c9VLt5fZYbmGfTvrLpF8vQ 
 
