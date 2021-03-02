@@ -50,4 +50,6 @@ DOI: 10.2196/preprints.26518
 
 URL: https://preprints.jmir.org/preprint/26518
 
-if you have any question, feel free to contact me via xinyuzhou17@fudan"dot"edu"dot"cn (remove "dot" with .)
+------
+
+If you have any question, feel free to contact me via xinyuzhou17@fudan"dot"edu"dot"cn (remove "dot" with .).
