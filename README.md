@@ -28,9 +28,9 @@ Dataset: Weibo posts during the resurgence of Covid-19 in Beijing, China
 
 NOTE: Due to the crawling rule, there might be a tiny amount of duplicate data in the dataset. Please remember to remove duplicates. Also, there might be extra headers in the dataset. Please remove them or set some rules in your data processing script.
 
-链接：https://pan.baidu.com/s/1c9VLt5fZYbmGfTvrLpF8vQ 
+链接：https://pan.baidu.com/s/1DZqW6Pk0fXQGCm14FsyplQ 
 
-提取码：36o5
+提取码：04b6
 
 ------
 
