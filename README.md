@@ -6,7 +6,7 @@ Dataset: Weibo posts during the initial outbreak of Covid-19 in China
 
 但在链接中，你同样可以下载3月和4月初的微博数据
 
-But in the link, you can also download Weibo data during Mar 2020 and early Apr 2020. 
+But in the link, you can also download Weibo data during Early January, March, and early April of 2020. 
 
 size: > 10M Weibo posts
 
