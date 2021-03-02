@@ -1,12 +1,14 @@
 武汉疫情爬虫数据（爬取了来自所有地理位置的微博）
 
-Dataset: Weibo posts during the initial outbreak of Covid-19 in China
+Dataset: Weibo posts during the initial outbreak of Covid-19 in China 
 
 时间区间：Jan 13, 2020 - Feb 28, 2020
 
 但在链接中，你同样可以下载3月和4月初的微博数据
 
-But in the link, you can also download Weibo data during Mar 2020 and early Apr 2020.
+But in the link, you can also download Weibo data during Mar 2020 and early Apr 2020. 
+
+size: > 10M Weibo posts
 
 请注意：我上传的这份数据或未去除重复的表头。由于爬取规则设置，数据中也会有少量重复数据，请记得去重。
 
@@ -21,6 +23,8 @@ NOTE: Due to the crawling rule, there might be a small amount of duplicate data 
 北京疫情爬虫数据（爬取微博时，微博搜索地理位置设置为了：北京、河北；论文我们仅使用了来自北京的数据。您可以在地理信息一栏将来自北京外的微博筛出）
 
 Dataset: Weibo posts during the resurgence of Covid-19 in Beijing, China
+
+Size: ~1 million Weibo posts
 
 时间区间：Jun 4, 2020 - Jul 20, 2020
 
